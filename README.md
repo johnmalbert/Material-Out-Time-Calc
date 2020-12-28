@@ -1,2 +1,1 @@
-# hello-world
-Hello!
+This project was made to solve a problem at Zodiac Aerospace. There was a time sensitive material, which had to be in freezer when not in use. If the time the material spent outside the freezer exceeded a certain amount, the material could not be used. This handy calculator application enabled the operator to quickly determine how long the material had spent outside the freezer.
